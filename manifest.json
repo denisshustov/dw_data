@@ -3,7 +3,7 @@
   "dataset": "card-word-learn",
   "dbSchemaVersion": 1,
   "dataVersion": "2026.09.01.001",
-  "createdAt": "2026-08-30T19:56:16Z",
+  "createdAt": "2026-08-31T17:15:56Z",
   "minAppVersion": 1,
   "base": null,
   "updates": [
@@ -16,8 +16,8 @@
       "compression": "gzip",
       "fromVersion": "2026.08.30.001",
       "toVersion": "2026.09.01.001",
-      "sha256": "8017856728695d5a9b539e24df28df2f274b66862bbee1801d5e40a95538b211",
-      "size": 461564
+      "sha256": "a0a7a9efbe2cc93b9323fc2b0f02395de1494350e672be086c272567b706964b",
+      "size": 474917
     }
   ]
 }
