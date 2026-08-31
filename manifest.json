@@ -10,7 +10,7 @@
     {
       "id": "patch-2026.09.01.001",
       "paths": [
-        "updates/2026.09.01.001.jsonl.gz"
+        "https://github.com/denisshustov/dw_data/releases/download/patch-2026.09.01.001/card-word-learn-data-2026.09.01.001.zip"
       ],
       "type": "update",
       "compression": "gzip",
