@@ -18,6 +18,18 @@
       "toVersion": "2026.09.05.001",
       "sha256": "5b6aa2cade0b832d5df3df26fc8ac9f78bc32e777c2054f200573e40e4626eca",
       "size": 1603443
+    },
+    {
+      "id": "patch-2026.09.05.002",
+      "paths": [
+        "https://github.com/denisshustov/dw_data/releases/download/2026.09.05.002/2026.09.05.002.jsonl.gz"
+      ],
+      "type": "update",
+      "compression": "gzip",
+      "fromVersion": "2026.08.30.001",
+      "toVersion": "2026.09.05.002",
+      "sha256": "9e27fed4a897eb9308046a9a63491be9e874d7ee67798e2f684034df7ba0384d",
+      "size": 456632
     }
   ]
 }
