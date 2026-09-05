@@ -2,34 +2,22 @@
   "schemaVersion": 1,
   "dataset": "card-word-learn",
   "dbSchemaVersion": 1,
-  "dataVersion": "2026.09.01.001",
-  "createdAt": "2026-08-31T17:15:56Z",
+  "dataVersion": "2026.09.05.001",
+  "createdAt": "2026-09-05T13:45:02Z",
   "minAppVersion": 1,
   "base": null,
   "updates": [
     {
-      "id": "patch-2026.09.01.001",
+      "id": "patch-2026.09.05.001",
       "paths": [
-        "https://github.com/denisshustov/dw_data/releases/download/patch-2026.09.01.001/2026.09.01.001.jsonl.gz"
+        "https://github.com/denisshustov/dw_data/releases/download/2026.09.05.001/2026.09.05.001.jsonl.gz"
       ],
       "type": "update",
       "compression": "gzip",
-      "fromVersion": "2026.08.30.001",
-      "toVersion": "2026.09.01.001",
-      "sha256": "a0a7a9efbe2cc93b9323fc2b0f02395de1494350e672be086c272567b706964b",
-      "size": 474917
-    },
-    {
-      "id": "patch-2026.09.01.002",
-      "paths": [
-        "https://github.com/denisshustov/dw_data/releases/download/2026.09.01.002/2026.09.01.002.jsonl.gz"
-      ],
-      "type": "update",
-      "compression": "gzip",
-      "fromVersion": "2026.08.30.001",
-      "toVersion": "2026.09.01.002",
-      "sha256": "1b778256b28935b6ac5cb4f8c44100a71c164a5b50d0e504d98704ad95a3b400",
-      "size": 1960225
+      "fromVersion": "seed",
+      "toVersion": "2026.09.05.001",
+      "sha256": "5b6aa2cade0b832d5df3df26fc8ac9f78bc32e777c2054f200573e40e4626eca",
+      "size": 1603443
     }
   ]
 }
