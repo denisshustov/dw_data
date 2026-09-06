@@ -11,7 +11,7 @@
       "id": "patch-2026.09.06.001-the-book-of-boba-fett-all-seasons",
       "name": "The Book of Boba Fett all seasons",
       "paths": [
-        "https://github.com/denisshustov/dw_data/releases/download/patch-2026.09.06.001/2026.09.06.001-the-book-of-boba-fett-all-seasons-001.jsonl"
+        "https://github.com/denisshustov/dw_data/releases/download/patch-2026.09.06.001/2026.09.06.001-the-book-of-boba-fett-all-seasons-001.jsonl.gz"
       ],
       "type": "update",
       "compression": "gzip",
