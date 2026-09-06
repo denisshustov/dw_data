@@ -8,28 +8,40 @@
   "base": null,
   "updates": [
     {
-      "id": "patch-2026.09.05.001",
+      "id": "patch-2026.09.06.001-the-book-of-boba-fett-all-seasons",
+      "name": "The Book of Boba Fett all seasons",
       "paths": [
-        "https://github.com/denisshustov/dw_data/releases/download/2026.09.05.001/2026.09.05.001.jsonl.gz"
+        "https://github.com/denisshustov/dw_data/releases/download/patch-2026.09.06.001/2026.09.06.001-the-book-of-boba-fett-all-seasons-001.jsonl"
       ],
       "type": "update",
       "compression": "gzip",
-      "fromVersion": "seed",
-      "toVersion": "2026.09.05.001",
-      "sha256": "5b6aa2cade0b832d5df3df26fc8ac9f78bc32e777c2054f200573e40e4626eca",
-      "size": 1603443
+      "toVersion": "2026.09.06.001",
+      "sha256": "13c1e0a0e41d4643f37c191ff3c315f0a3365c0014d42c7974e54d05a5467909",
+      "size": 267478
     },
     {
-      "id": "patch-2026.09.05.002",
+      "id": "patch-2026.09.06.002-the-mandalorian-all-seasons",
+      "name": "The Mandalorian all seasons",
       "paths": [
-        "https://github.com/denisshustov/dw_data/releases/download/2026.09.05.002/2026.09.05.002.jsonl.gz"
+        "https://github.com/denisshustov/dw_data/releases/download/patch-2026.09.06.002/2026.09.06.002-the-mandalorian-all-seasons-001.jsonl.gz"
       ],
       "type": "update",
       "compression": "gzip",
-      "fromVersion": "2026.08.30.001",
-      "toVersion": "2026.09.05.002",
-      "sha256": "9e27fed4a897eb9308046a9a63491be9e874d7ee67798e2f684034df7ba0384d",
-      "size": 456632
-    }
+      "toVersion": "2026.09.06.002",
+      "sha256": "7b55d85f91bb3c54ee327f6553222e036f9a00445341f7d8b2edb33b3a161499",
+      "size": 598288
+    },
+    {
+      "id": "patch-2026.09.06.003-game-of-thrones-all-seasons",
+      "name": "Game of Thrones all seasons",
+      "paths": [
+        "https://github.com/denisshustov/dw_data/releases/download/2026.09.06.003/2026.09.06.003-game-of-thrones-all-seasons-001.jsonl.gz"
+      ],
+      "type": "update",
+      "compression": "gzip",
+      "toVersion": "2026.09.06.003",
+      "sha256": "ed8e1888b269fbc69672d471ec8d22c9f8fa9da7f77c514c21c5a2e955237aaa",
+      "size": 1991175
+    }	
   ]
 }
