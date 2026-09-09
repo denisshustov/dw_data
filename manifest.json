@@ -42,6 +42,18 @@
       "toVersion": "2026.09.06.003",
       "sha256": "ed8e1888b269fbc69672d471ec8d22c9f8fa9da7f77c514c21c5a2e955237aaa",
       "size": 1991175
-    }	
+    },
+	{
+      "id": "patch-2026.09.09.001-from-4-seasons",
+      "name": "From 4 seasons",
+      "paths": [
+        "https://github.com/denisshustov/dw_data/releases/download/2026.09.09.001/2026.09.09.001-from-4-seasons-001.jsonl.gz"
+      ],
+      "type": "update",
+      "compression": "gzip",
+      "toVersion": "2026.09.09.001",
+      "sha256": "24c2d47ad2e06627c51760bd021ae15eba0730606da7c8253cce7ce94f93c1a1",
+      "size": 235237
+    }
   ]
 }
