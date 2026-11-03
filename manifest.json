@@ -66,6 +66,18 @@
       "toVersion": "2026.11.03.001",
       "sha256": "534308ec97c97924fe37e5a70b28216177b7be114346d03a2178ef50f92e9c83",
       "size": 736828
+    },
+	{
+      "id": "patch-2026.11.03.002-lord-of-the-rings",
+      "name": "Lord of the Rings",
+      "paths": [
+        "https://github.com/denisshustov/dw_data/releases/download/2026.11.03.002/2026.11.03.002-lord-of-the-rings-001.jsonl.gz"
+      ],
+      "type": "update",
+      "compression": "gzip",
+      "toVersion": "2026.11.03.002",
+      "sha256": "513a18afc9af9cb0331b1ead450fdda8189b0ccd37cb139fa906d3903e9b5d5e",
+      "size": 391149
     }
   ]
 }
