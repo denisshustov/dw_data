@@ -90,6 +90,18 @@
       "toVersion": "2026.11.04.002",
       "sha256": "6e97497c58b7ceb1eaecd40fcd7aab8e5302851c4c46b2f7285bd4002c7ca9d2",
       "size": 358902
+    },
+	{
+      "id": "patch-2026.11.04.003-pirates-of-the-caribbean",
+      "name": "Pirates of the Caribbean",
+      "paths": [
+        "https://github.com/denisshustov/dw_data/releases/download/2026.11.04.003/2026.11.04.003-pirates-of-the-caribbean-001.jsonl.gz"
+      ],
+      "type": "update",
+      "compression": "gzip",
+      "toVersion": "2026.11.04.003",
+      "sha256": "e759ffdfc29445b45406ecbe1236c6a20b0859d430b48e46a2840932aca5d72b",
+      "size": 573324
     }
   ]
 }
