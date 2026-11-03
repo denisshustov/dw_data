@@ -78,6 +78,18 @@
       "toVersion": "2026.11.03.002",
       "sha256": "513a18afc9af9cb0331b1ead450fdda8189b0ccd37cb139fa906d3903e9b5d5e",
       "size": 391149
+    },
+	{
+      "id": "patch-2026.11.04.002-hobbit",
+      "name": "Hobbit",
+      "paths": [
+        "https://github.com/denisshustov/dw_data/releases/download/2026.11.04.002/2026.11.04.002-hobbit-001.jsonl.gz"
+      ],
+      "type": "update",
+      "compression": "gzip",
+      "toVersion": "2026.11.04.002",
+      "sha256": "6e97497c58b7ceb1eaecd40fcd7aab8e5302851c4c46b2f7285bd4002c7ca9d2",
+      "size": 358902
     }
   ]
 }
