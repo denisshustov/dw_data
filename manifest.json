@@ -54,6 +54,18 @@
       "toVersion": "2026.09.09.001",
       "sha256": "24c2d47ad2e06627c51760bd021ae15eba0730606da7c8253cce7ce94f93c1a1",
       "size": 235237
+    },
+	{
+      "id": "patch-2026.11.03.001-the-harry-potter-all-seasons",
+      "name": "The Harry Potter all seasons",
+      "paths": [
+        "https://github.com/denisshustov/dw_data/releases/download/2026.11.03.001/2026.11.03.001-the-harry-potter-all-seasons-001.jsonl.gz"
+      ],
+      "type": "update",
+      "compression": "gzip",
+      "toVersion": "2026.11.03.001",
+      "sha256": "534308ec97c97924fe37e5a70b28216177b7be114346d03a2178ef50f92e9c83",
+      "size": 736828
     }
   ]
 }
